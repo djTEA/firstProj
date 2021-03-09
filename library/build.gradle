@@ -26,6 +26,8 @@ dependencies {
     implementation files ('lib/apache-log4j-2.14.0-bin.zip')
     implementation files ('lib/h2-2019-10-14.zip')
     implementation files ('lib/hibernate-release-5.4.28.Final.zip')
+    implementation files ('lib/hamcrest-core-2.2.jar')
+    implementation files ('lib/hamcrest-core-1.3.jar')
 
     // Use JUnit test framework.
     testImplementation files ('lib/junit-4.13.2.jar')
