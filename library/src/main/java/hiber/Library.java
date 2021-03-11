@@ -4,7 +4,7 @@
 package hiber;
 
 public class Library {
-    public static boolean someLibraryMethod() {
+    public boolean someLibraryMethod() {
         return true;
     }
 }
